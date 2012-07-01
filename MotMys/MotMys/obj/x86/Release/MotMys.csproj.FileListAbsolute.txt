@@ -1,0 +1,8 @@
+C:\Users\Cocopop\AppData\Local\Temporary Projects\MotMys\bin\Release\MotMys.exe
+C:\Users\Cocopop\AppData\Local\Temporary Projects\MotMys\bin\Release\MotMys.pdb
+C:\Users\Cocopop\AppData\Local\Temporary Projects\MotMys\obj\x86\Release\MotMys.exe
+C:\Users\Cocopop\AppData\Local\Temporary Projects\MotMys\obj\x86\Release\MotMys.pdb
+C:\Users\Cocopop\documents\visual studio 2010\Projects\MotMys\MotMys\obj\x86\Release\MotMys.exe
+C:\Users\Cocopop\documents\visual studio 2010\Projects\MotMys\MotMys\obj\x86\Release\MotMys.pdb
+C:\Users\Cocopop\documents\visual studio 2010\Projects\MotMys\MotMys\bin\Release\MotMys.exe
+C:\Users\Cocopop\documents\visual studio 2010\Projects\MotMys\MotMys\bin\Release\MotMys.pdb
