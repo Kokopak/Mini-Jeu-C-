@@ -1,0 +1,7 @@
+MORPION:
+	Nombre de joueur(s): 2
+	Comment jouer ?: Il faut taper les numéros dans lesquels vous voulez placer votre signe. Le 1er qui a aligné 3 signes à gagner !
+
+PENDU:
+	Nombre de joueurs(s): 1
+	Comment jouer ?: Il faut taper les lettres et voir si elles sont ou pas dans le mot. 
