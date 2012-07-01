@@ -1,0 +1,5 @@
+C:\Users\Cocopop\Documents\Visual Studio 2010\Projects\Morpion\Morpion\obj\x86\Debug\Morpion.csprojResolveAssemblyReference.cache
+C:\Users\Cocopop\Documents\Visual Studio 2010\Projects\Morpion\Morpion\bin\Debug\Morpion.exe
+C:\Users\Cocopop\Documents\Visual Studio 2010\Projects\Morpion\Morpion\bin\Debug\Morpion.pdb
+C:\Users\Cocopop\Documents\Visual Studio 2010\Projects\Morpion\Morpion\obj\x86\Debug\Morpion.exe
+C:\Users\Cocopop\Documents\Visual Studio 2010\Projects\Morpion\Morpion\obj\x86\Debug\Morpion.pdb

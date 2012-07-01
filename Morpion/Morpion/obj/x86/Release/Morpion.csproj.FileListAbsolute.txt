@@ -1,0 +1,9 @@
+C:\Users\Cocopop\AppData\Local\Temporary Projects\Morpion\bin\Release\Morpion.exe
+C:\Users\Cocopop\AppData\Local\Temporary Projects\Morpion\bin\Release\Morpion.pdb
+C:\Users\Cocopop\AppData\Local\Temporary Projects\Morpion\obj\x86\Release\Morpion.exe
+C:\Users\Cocopop\AppData\Local\Temporary Projects\Morpion\obj\x86\Release\Morpion.pdb
+C:\Users\Cocopop\documents\visual studio 2010\Projects\Morpion\Morpion\obj\x86\Release\Morpion.exe
+C:\Users\Cocopop\documents\visual studio 2010\Projects\Morpion\Morpion\obj\x86\Release\Morpion.pdb
+C:\Users\Cocopop\documents\visual studio 2010\Projects\Morpion\Morpion\bin\Release\Morpion.exe
+C:\Users\Cocopop\documents\visual studio 2010\Projects\Morpion\Morpion\bin\Release\Morpion.pdb
+C:\Users\Cocopop\documents\visual studio 2010\Projects\Morpion\Morpion\obj\x86\Release\Morpion.csprojResolveAssemblyReference.cache
