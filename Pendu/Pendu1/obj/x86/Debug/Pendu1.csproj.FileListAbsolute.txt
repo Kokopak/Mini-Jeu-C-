@@ -1,0 +1,4 @@
+C:\Users\Cocopop\documents\visual studio 2010\Projects\Pendu1\Pendu1\bin\Debug\Pendu1.exe
+C:\Users\Cocopop\documents\visual studio 2010\Projects\Pendu1\Pendu1\bin\Debug\Pendu1.pdb
+C:\Users\Cocopop\documents\visual studio 2010\Projects\Pendu1\Pendu1\obj\x86\Debug\Pendu1.exe
+C:\Users\Cocopop\documents\visual studio 2010\Projects\Pendu1\Pendu1\obj\x86\Debug\Pendu1.pdb
